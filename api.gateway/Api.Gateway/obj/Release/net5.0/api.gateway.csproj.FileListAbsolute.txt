@@ -1,0 +1,87 @@
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\appsettings.Development.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\appsettings.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\configuration.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.exe
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.deps.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.runtimeconfig.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.runtimeconfig.dev.json
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\ref\api.gateway.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\api.gateway.pdb
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\FluentValidation.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\bin\Release\net5.0\Ocelot.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.csprojAssemblyReference.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.AssemblyInfoInputs.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.AssemblyInfo.cs
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.csproj.CoreCompileInputs.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\staticwebassets\api.gateway.StaticWebAssets.Manifest.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\staticwebassets\api.gateway.StaticWebAssets.xml
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\scopedcss\bundle\api.gateway.styles.css
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.RazorTargetAssemblyInfo.cache
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.csproj.CopyComplete
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\ref\api.gateway.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.pdb
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\api.gateway.genruntimeconfig.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\appsettings.Development.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\appsettings.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\configuration.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.exe
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.deps.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.runtimeconfig.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.runtimeconfig.dev.json
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\ref\api.gateway.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\api.gateway.pdb
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\FluentValidation.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Kros.Utils.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\MMLib.SwaggerForOcelot.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Ocelot.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\System.Data.SqlClient.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.csprojAssemblyReference.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.AssemblyInfoInputs.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.AssemblyInfo.cs
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.csproj.CoreCompileInputs.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\staticwebassets\api.gateway.StaticWebAssets.Manifest.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\staticwebassets\api.gateway.StaticWebAssets.xml
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\scopedcss\bundle\api.gateway.styles.css
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.RazorTargetAssemblyInfo.cache
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.csproj.CopyComplete
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\ref\api.gateway.dll
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.pdb
+E:\Project\api.gateway\API-Gateway-In-API.NET-Core\Api.Gateway\obj\Release\net5.0\api.gateway.genruntimeconfig.cache

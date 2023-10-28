@@ -1,0 +1,16 @@
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\api.gateway.exe
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\configuration.json
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\api.gateway.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\api.gateway.deps.json
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\api.gateway.runtimeconfig.json
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\api.gateway.pdb
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\FluentValidation.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+E:\Belajar Coding\api.gateway\Api.Gateway\obj\Release\net5.0\PubTmp\Out\Ocelot.dll
